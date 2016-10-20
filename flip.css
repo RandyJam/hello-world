@@ -21,7 +21,7 @@ body > h1 {
   margin-bottom: 10px;
 }
 span {
-  color: #888888;
+  color: green;/*was #888888*/
 }
 div.button-container {
   float: left;
