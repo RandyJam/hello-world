@@ -21,7 +21,7 @@ body > h1 {
   margin-bottom: 10px;
 }
 span {
-  color: green;/*was #888888*/
+  color: #888888;
 }
 div.button-container {
   float: left;
@@ -84,12 +84,12 @@ flipper > div.flipper .back {
 }
 flipper > div.flipper .front {
   z-index: 2;
-  background: #19489E;
+  background: blue; /* was #19489E */
   /* front tile styles go here! */
 
 }
 flipper > div.flipper .back {
-  background: #9E1919;
+  background: red; /* was #9E1919 */
   /* back tile styles go here! */
 
 }
