@@ -85,12 +85,12 @@ flipper > div.flipper .back {
 }
 flipper > div.flipper .front {
   z-index: 2;
-  background: blue; /* was #19489E */
+  background: gray; /* was #19489E */
   /* front tile styles go here! */
 
 }
 flipper > div.flipper .back {
-  background: red; /* was #9E1919 */
+  background: orange; /* was #9E1919 */
   /* back tile styles go here! */
 }
 flipper[horizontal] .front {
