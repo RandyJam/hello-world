@@ -4,7 +4,7 @@
     
 var app = angular.module('gemStore', []);
     
-    
+//here is an extra line to test
 
 // START New Flipping Code    
 app.controller("flipperDemo", function($scope) {
